@@ -1,0 +1,6 @@
+This is a project in Jetbrains Academy Curriculum (Python Developer)
+
+This program uses Flask-SQLAlchemy to connect a database to a web application and work with a weather service API to get the current weather from all over the world.
+For further information visit the link:-
+
+https://hyperskill.org/projects/164
